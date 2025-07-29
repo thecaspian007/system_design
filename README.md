@@ -1,11 +1,11 @@
-![Alt text](/Users/sumeet/system_design/Assets/img/img1.jpeg)
+![Alt text](/Assets/img/img1.jpeg)
 # System Design Repository
 
 This repository contains comprehensive examples of design patterns and Low Level Design (LLD) implementations in both Java and Python.
 
 ## Objectives of System Design
 
-![Alt text](/Users/sumeet/system_design/Assets/img/img2.jpeg)
+![Alt text](/Assets/img/img2.jpeg)
 
 ## Repository Structure
 
